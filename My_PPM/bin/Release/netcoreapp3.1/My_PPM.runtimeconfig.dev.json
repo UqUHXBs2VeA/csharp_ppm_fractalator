@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\lazyp\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\lazyp\\.nuget\\packages"
+    ]
+  }
+}

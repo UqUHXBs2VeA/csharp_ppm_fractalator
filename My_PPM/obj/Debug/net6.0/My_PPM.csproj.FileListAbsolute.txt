@@ -1,0 +1,15 @@
+C:\Users\lazyp\source\repos\My_PPM\My_PPM\bin\Debug\net6.0\My_PPM.exe
+C:\Users\lazyp\source\repos\My_PPM\My_PPM\bin\Debug\net6.0\My_PPM.deps.json
+C:\Users\lazyp\source\repos\My_PPM\My_PPM\bin\Debug\net6.0\My_PPM.runtimeconfig.json
+C:\Users\lazyp\source\repos\My_PPM\My_PPM\bin\Debug\net6.0\My_PPM.dll
+C:\Users\lazyp\source\repos\My_PPM\My_PPM\bin\Debug\net6.0\My_PPM.pdb
+C:\Users\lazyp\source\repos\My_PPM\My_PPM\obj\Debug\net6.0\My_PPM.csproj.AssemblyReference.cache
+C:\Users\lazyp\source\repos\My_PPM\My_PPM\obj\Debug\net6.0\My_PPM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lazyp\source\repos\My_PPM\My_PPM\obj\Debug\net6.0\My_PPM.AssemblyInfoInputs.cache
+C:\Users\lazyp\source\repos\My_PPM\My_PPM\obj\Debug\net6.0\My_PPM.AssemblyInfo.cs
+C:\Users\lazyp\source\repos\My_PPM\My_PPM\obj\Debug\net6.0\My_PPM.csproj.CoreCompileInputs.cache
+C:\Users\lazyp\source\repos\My_PPM\My_PPM\obj\Debug\net6.0\My_PPM.dll
+C:\Users\lazyp\source\repos\My_PPM\My_PPM\obj\Debug\net6.0\refint\My_PPM.dll
+C:\Users\lazyp\source\repos\My_PPM\My_PPM\obj\Debug\net6.0\My_PPM.pdb
+C:\Users\lazyp\source\repos\My_PPM\My_PPM\obj\Debug\net6.0\My_PPM.genruntimeconfig.cache
+C:\Users\lazyp\source\repos\My_PPM\My_PPM\obj\Debug\net6.0\ref\My_PPM.dll
